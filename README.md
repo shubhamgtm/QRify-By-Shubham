@@ -1,4 +1,4 @@
-
+![image alt](https://github.com/shubhamgtm/QRify-By-Shubham/blob/f0a2fe4566b5472ab602665aa56471315cd4449d/banner.svg)
 
 # 🔳 QRify
 
