@@ -1,20 +1,38 @@
-<div align="center">
+<p align="center">
+  <img src="assets/banner.svg" alt="QRify – Create your QR code instantly. By Shubham Gautam (@shubhamgtm)" width="100%">
+</p>
 
-# QRify – QR Code Generator
+<p align="center">
+  <a href="https://qrifyyy.netlify.app/"><img alt="Live demo: qrifyyy.netlify.app" src="https://img.shields.io/badge/Live%20demo-qrifyyy.netlify.app-7c3aed?style=for-the-badge&logo=netlify&logoColor=white"></a>
+</p>
 
-**Create your QR code instantly.** A fast, private and beautifully minimal QR code generator built with plain HTML, CSS and vanilla JavaScript. No backend, no build step, no tracking.
+<p align="center">
+  <strong>Free QR codes in 5 seconds. No sign-up. No ads. No tracking.</strong><br>
+  A fast, private and minimal QR code generator built with plain HTML, CSS and vanilla JavaScript.
+</p>
 
-Created by **Shubham Gautam**.
-https://qrifyyy.netlify.app/
+<p align="center">
+  <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-7c3aed.svg">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572b6?logo=css3&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black">
+</p>
 
-![License: MIT](https://img.shields.io/badge/license-MIT-7c3aed.svg)
-![HTML5](https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572b6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black)
-
-</div>
+<p align="center">
+  <a href="https://qrifyyy.netlify.app/">Live demo</a> ·
+  <a href="#features">Features</a> ·
+  <a href="#installation">Installation</a> ·
+  <a href="#usage">Usage</a> ·
+  <a href="#author">Author</a>
+</p>
 
 ---
+
+## Live demo
+
+**Try it now: [https://qrifyyy.netlify.app/](https://qrifyyy.netlify.app/)**
+
+No install, no account. Open the link, type something, and download your QR code.
 
 ## Features
 
@@ -55,6 +73,7 @@ https://qrifyyy.netlify.app/
 | Styling | CSS3 (custom properties, Grid, Flexbox) |
 | Logic | Vanilla JavaScript (ES6+) |
 | QR generation | [QRCode.js](https://github.com/davidshimjs/qrcodejs) |
+| Hosting | [Netlify](https://qrifyyy.netlify.app/) |
 
 No Node.js, package manager, framework or backend is needed.
 
@@ -88,6 +107,10 @@ npx serve .
 ```
 
 Then visit <http://localhost:8000>.
+
+### Deploy your own copy
+
+QRify is a static site, so it deploys anywhere that serves files. On Netlify, drag the project folder onto the [Netlify Drop](https://app.netlify.com/drop) page, or connect your fork of the repository and leave the build command empty.
 
 ## Usage
 
@@ -123,6 +146,9 @@ qrify/
 ├── README.md       # Project documentation
 ├── LICENSE         # MIT license
 ├── .gitignore      # Files excluded from version control
+├── assets/
+│   ├── banner.svg  # README banner (vector)
+│   └── banner.png  # Same banner as a PNG, e.g. for GitHub's social preview
 ├── lib/            # (optional) local copy of qrcode.min.js for offline use
 └── docs/
     └── screenshots/  # (optional) images referenced by this README
@@ -146,9 +172,13 @@ Contributions are welcome.
 4. Push the branch: `git push origin feature/my-improvement`.
 5. Open a pull request.
 
+If QRify is useful to you, a star on the repository is always appreciated.
+
 ## Author
 
-Created by **Shubham Gautam**.
+**Shubham Gautam** · [@shubhamgtm](https://github.com/shubhamgtm)
+
+Live site: [qrifyyy.netlify.app](https://qrifyyy.netlify.app/)
 
 ## License
 
