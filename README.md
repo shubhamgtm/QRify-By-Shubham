@@ -1,3 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="qrify-title qrify-desc">
+  <title id="qrify-title">QRify – Create your QR code instantly</title>
+  <desc id="qrify-desc">QRify banner by Shubham Gautam (@shubhamgtm). Live at qrifyyy.netlify.app</desc>
+
+  <!-- Background -->
+  <rect width="1280" height="400" fill="#0b0b10"/>
+
+  <!-- Logo mark -->
+  <g transform="translate(96 75) scale(2.375)">
+    <rect width="32" height="32" rx="9" fill="#7c3aed"/>
+    <rect x="7" y="7" width="7" height="7" rx="1.5" fill="#ffffff"/>
+    <rect x="18" y="7" width="7" height="7" rx="1.5" fill="#ffffff"/>
+    <rect x="7" y="18" width="7" height="7" rx="1.5" fill="#ffffff"/>
+    <rect x="18" y="18" width="3.5" height="3.5" fill="#ffffff"/>
+    <rect x="21.5" y="21.5" width="3.5" height="3.5" fill="#ffffff"/>
+  </g>
+
+  <g font-family="Inter, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+    <!-- Wordmark -->
+    <text x="192" y="145" font-size="88" font-weight="800" letter-spacing="-3" fill="#f5f5f7">QRify</text>
+
+    <!-- Tagline -->
+    <text x="96" y="209" font-size="38" font-weight="600" letter-spacing="-1" fill="#f5f5f7">Create your <tspan fill="#b9a0ff">QR code</tspan> instantly.</text>
+
+    <!-- Chips -->
+    <g font-size="18" font-weight="500" fill="#d4d4dc" text-anchor="middle">
+      <rect x="96" y="239" width="76" height="36" rx="18" fill="#14141a" stroke="#2f2f3b"/>
+      <text x="134" y="263.5">Free</text>
+      <rect x="182" y="239" width="124" height="36" rx="18" fill="#14141a" stroke="#2f2f3b"/>
+      <text x="244" y="263.5">No sign-up</text>
+      <rect x="316" y="239" width="132" height="36" rx="18" fill="#14141a" stroke="#2f2f3b"/>
+      <text x="382" y="263.5">No tracking</text>
+    </g>
+
+    <!-- Credit -->
+    <text x="96" y="316" font-size="20" font-weight="500" fill="#a1a1b0">by <tspan font-weight="600" fill="#f5f5f7">Shubham Gautam</tspan> · <tspan fill="#b9a0ff">@shubhamgtm</tspan> · qrifyyy.netlify.app</text>
+  </g>
+
+  <!-- QR illustration (decorative) -->
+  <rect x="920" y="86" width="264" height="264" rx="36" fill="#7c3aed"/>
+  <rect x="884" y="50" width="264" height="264" rx="36" fill="#ffffff"/>
+  <g transform="translate(916 82) scale(9.5238)" fill="#0b0b10" shape-rendering="crispEdges">
+    <path fill-rule="evenodd" d="M0 0h7v7h-7z M1 1h5v5h-5z M2 2h3v3h-3z M14 0h7v7h-7z M15 1h5v5h-5z M16 2h3v3h-3z M0 14h7v7h-7z M1 15h5v5h-5z M2 16h3v3h-3z"/>
+    <path d="M8 0h2v1h-2z M11 0h2v1h-2z M9 1h2v1h-2z M12 1h1v1h-1z M8 2h1v1h-1z M10 2h1v1h-1z M12 2h1v1h-1z M8 3h2v1h-2z M11 3h2v1h-2z M9 4h3v1h-3z M8 5h1v1h-1z M11 5h2v1h-2z M9 6h1v1h-1z M12 6h1v1h-1z M8 7h1v1h-1z M10 7h1v1h-1z M12 7h1v1h-1z M0 8h2v1h-2z M3 8h1v1h-1z M5 8h2v1h-2z M8 8h1v1h-1z M10 8h3v1h-3z M14 8h2v1h-2z M17 8h1v1h-1z M19 8h2v1h-2z M1 9h1v1h-1z M3 9h2v1h-2z M6 9h1v1h-1z M8 9h2v1h-2z M11 9h1v1h-1z M13 9h2v1h-2z M16 9h1v1h-1z M18 9h3v1h-3z M0 10h1v1h-1z M2 10h2v1h-2z M5 10h1v1h-1z M7 10h2v1h-2z M10 10h1v1h-1z M12 10h3v1h-3z M17 10h2v1h-2z M20 10h1v1h-1z M1 11h2v1h-2z M4 11h1v1h-1z M6 11h3v1h-3z M11 11h2v1h-2z M14 11h1v1h-1z M16 11h2v1h-2z M19 11h2v1h-2z M0 12h2v1h-2z M3 12h1v1h-1z M5 12h1v1h-1z M8 12h2v1h-2z M11 12h1v1h-1z M13 12h2v1h-2z M16 12h1v1h-1z M18 12h1v1h-1z M20 12h1v1h-1z M8 13h1v1h-1z M10 13h3v1h-3z M14 13h1v1h-1z M16 13h2v1h-2z M19 13h2v1h-2z M9 14h2v1h-2z M12 14h1v1h-1z M14 14h3v1h-3z M18 14h1v1h-1z M20 14h1v1h-1z M8 15h3v1h-3z M12 15h2v1h-2z M15 15h1v1h-1z M17 15h2v1h-2z M20 15h1v1h-1z M9 16h1v1h-1z M11 16h2v1h-2z M14 16h1v1h-1z M16 16h1v1h-1z M18 16h3v1h-3z M8 17h2v1h-2z M11 17h1v1h-1z M13 17h3v1h-3z M17 17h1v1h-1z M19 17h2v1h-2z M8 18h1v1h-1z M10 18h2v1h-2z M13 18h1v1h-1z M15 18h2v1h-2z M18 18h1v1h-1z M20 18h1v1h-1z M9 19h2v1h-2z M12 19h1v1h-1z M14 19h2v1h-2z M17 19h2v1h-2z M20 19h1v1h-1z M8 20h1v1h-1z M10 20h1v1h-1z M12 20h3v1h-3z M16 20h1v1h-1z M18 20h3v1h-3z"/>
+  </g>
+</svg>
  <div align="center">
 
 # 🔳 QRify
