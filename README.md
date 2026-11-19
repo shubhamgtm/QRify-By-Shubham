@@ -5,6 +5,7 @@
 **Create your QR code instantly.** A fast, private and beautifully minimal QR code generator built with plain HTML, CSS and vanilla JavaScript. No backend, no build step, no tracking.
 
 Created by **Shubham Gautam**.
+https://qrifyyy.netlify.app/
 
 ![License: MIT](https://img.shields.io/badge/license-MIT-7c3aed.svg)
 ![HTML5](https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white)
